@@ -1,1 +1,8 @@
-[{"surname": "asd", "name": "qwe", "zodiak": "qwe", "date": "11/11/1111"}]
+[
+    {
+        "surname": "asd",
+        "name": "qwe",
+        "zodiak": "ert",
+        "date": "11/11/1111"
+    }
+]

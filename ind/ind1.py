@@ -86,7 +86,7 @@ def select_humans(humans, addedzz):
 
 def save_humans(file_name, humans):
     with open(file_name, "w") as fout:
-        json.dump(humans, fout)
+        json.dump(humans, fout, ensure_ascii=False, indent=4)
 
 
 def load_humans(file_name):
